@@ -1,0 +1,22 @@
+{
+  "name": "firstapp",
+  "version": "1.0.0",
+  "description": "Testing",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedmshalaby/nodeJSLearning.git"
+  },
+  "keywords": [
+    "Testing"
+  ],
+  "author": "Ahmed Shalaby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmedmshalaby/nodeJSLearning/issues"
+  },
+  "homepage": "https://github.com/ahmedmshalaby/nodeJSLearning#readme"
+}
